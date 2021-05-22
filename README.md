@@ -1,4 +1,4 @@
-## Deployed live at https://test-b09be.web.app/login
+## Deployed live at https://test-b09be.web.app/login (make sure your browser zoom scale is at 125%)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
