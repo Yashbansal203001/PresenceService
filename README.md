@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Deployed live at https://test-b09be.web.app/login (make sure your browser zoom scale is at 125%)
 
 
@@ -68,3 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# PresenceService
+>>>>>>> 89bbda4371f993ff1b2ccbc5c5205c0ed8228a60
